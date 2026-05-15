@@ -1,3 +1,6 @@
+
+Plots produced for 2026 Virus Bioinformatics + nf-core Hybrid Collaborative Hackathon by @tammy357.
+ 
 ## Sequence Length Distribution Plot
 
 This plot I created displays the distribution of 'sequence_length' from the dataset. A histogram is used, with both the X (Sequence Length) and Y (Count) axes set to a logarithmic scale. 
